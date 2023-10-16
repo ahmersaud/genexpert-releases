@@ -3,27 +3,54 @@
     "version": "1.0.0",
     "date": "2022-01-01",
     "features": [
-      "Added new feature 1",
-      "Added new feature 2",
-      "Fixed bug in feature 3"
+      {
+        "name": "New Feature 1",
+        "description": "<p>This is a description of the new feature.</p>"
+      },
+      {
+        "name": "New Feature 2",
+        "description": "<p>This is a description of the new feature. <img src='http://example.com/image1.jpg' alt='Image 1'></p>"
+      },
+      {
+        "name": "Bug Fix in Feature 3",
+        "description": "<p>This is a description of the bug fix.</p>"
+      }
     ]
   },
   {
     "version": "1.0.1",
     "date": "2022-01-10",
     "features": [
-      "Improved performance of feature 1",
-      "Fixed bug in feature 4",
-      "Added new feature 5"
+      {
+        "name": "Performance Improvement in Feature 1",
+        "description": "<p>This is a description of the performance improvement.</p>"
+      },
+      {
+        "name": "Bug Fix in Feature 4",
+        "description": "<p>This is a description of the bug fix. <img src='http://example.com/image2.jpg' alt='Image 2'></p>"
+      },
+      {
+        "name": "New Feature 5",
+        "description": "<p>This is a description of the new feature.</p>"
+      }
     ]
   },
   {
     "version": "1.0.2",
     "date": "2022-01-20",
     "features": [
-      "Added new feature 6",
-      "Improved performance of feature 2",
-      "Fixed bug in feature 5"
+      {
+        "name": "New Feature 6",
+        "description": "<p>This is a description of the new feature.</p>"
+      },
+      {
+        "name": "Performance Improvement in Feature 2",
+        "description": "<p>This is a description of the performance improvement. <img src='http://example.com/image3.jpg' alt='Image 3'></p>"
+      },
+      {
+        "name": "Bug Fix in Feature 5",
+        "description": "<p>This is a description of the bug fix.</p>"
+      }
     ]
   }
 ]
