@@ -5,15 +5,15 @@
     "features": [
       {
         "name": "New Feature 1",
-        "description": "<p>This is a description of the new feature.</p>"
+        "html": "<p>This is a html of the new feature.</p>"
       },
       {
         "name": "New Feature 2",
-        "description": "<p>This is a description of the new feature. <img src='http://example.com/image1.jpg' alt='Image 1'></p>"
+        "html": "<p>This is a html of the new feature. <img src='http://example.com/image1.jpg' alt='Image 1'></p>"
       },
       {
         "name": "Bug Fix in Feature 3",
-        "description": "<p>This is a description of the bug fix.</p>"
+        "html": "<p>This is a html of the bug fix.</p>"
       }
     ]
   },
@@ -23,15 +23,15 @@
     "features": [
       {
         "name": "Performance Improvement in Feature 1",
-        "description": "<p>This is a description of the performance improvement.</p>"
+        "html": "<p>This is a html of the performance improvement.</p>"
       },
       {
         "name": "Bug Fix in Feature 4",
-        "description": "<p>This is a description of the bug fix. <img src='http://example.com/image2.jpg' alt='Image 2'></p>"
+        "html": "<p>This is a html of the bug fix. <img src='http://example.com/image2.jpg' alt='Image 2'></p>"
       },
       {
         "name": "New Feature 5",
-        "description": "<p>This is a description of the new feature.</p>"
+        "html": "<p>This is a html of the new feature.</p>"
       }
     ]
   },
@@ -41,15 +41,15 @@
     "features": [
       {
         "name": "New Feature 6",
-        "description": "<p>This is a description of the new feature.</p>"
+        "html": "<p>This is a html of the new feature.</p>"
       },
       {
         "name": "Performance Improvement in Feature 2",
-        "description": "<p>This is a description of the performance improvement. <img src='http://example.com/image3.jpg' alt='Image 3'></p>"
+        "html": "<p>This is a html of the performance improvement. <img src='http://example.com/image3.jpg' alt='Image 3'></p>"
       },
       {
         "name": "Bug Fix in Feature 5",
-        "description": "<p>This is a description of the bug fix.</p>"
+        "html": "<p>This is a html of the bug fix.</p>"
       }
     ]
   }
