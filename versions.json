@@ -1,0 +1,29 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2022-01-01",
+    "features": [
+      "Added new feature 1",
+      "Added new feature 2",
+      "Fixed bug in feature 3"
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "date": "2022-01-10",
+    "features": [
+      "Improved performance of feature 1",
+      "Fixed bug in feature 4",
+      "Added new feature 5"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "date": "2022-01-20",
+    "features": [
+      "Added new feature 6",
+      "Improved performance of feature 2",
+      "Fixed bug in feature 5"
+    ]
+  }
+]
