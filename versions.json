@@ -9,7 +9,7 @@
       },
       {
         "name": "New Feature 2",
-        "html": "<p>This is a html of the new feature. <img src='http://example.com/image1.jpg' alt='Image 1'></p>"
+        "html": "<p>This is a html of the new feature.</p> <img src='https://genexpert.io/screenshot.png'  alt='Image 1'>"
       },
       {
         "name": "Bug Fix in Feature 3",
