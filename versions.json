@@ -1,49 +1,15 @@
 [
-  {
-    "version": "1.0.0",
-    "date": "2022-01-01",
-    "features": [
-      {
-        "name": "🫧 New Feature 1"
-      },
-      {
-        "name": "New Feature 2",
-        "html": "<img src='https://genexpert.io/screenshot.png'  alt='Image 1'>"
-      },
-      {
-        "name": "Bug Fix in Feature 3 🏝️",
-        "html": "<p>This is a html of the bug fix.</p>"
-      }
-    ]
-  },
-  {
-    "version": "1.0.1",
-    "date": "2022-01-10",
-    "features": [
-      {
-        "name": "Performance Improvement in Feature 1",
-        "html": "<p>This is a html of the performance improvement.</p>"
-      },
-      {
-        "name": "Bug Fix in Feature 4",
-        "html": "<p>This is a html of the bug fix. <img src='http://example.com/image2.jpg' alt='Image 2'></p>"
-      },
-      {
-        "name": "New Feature 5",
-        "html": "<p>This is a html of the new feature.</p>"
-      }
-    ]
-  },
+
   {
     "version": "1.0.3",
     "date": "2022-01-10",
     "features": [
       {
-        "name": "Top bar menu changed",
-        "html": "<img src='/new-menu.png' alt='Image 2'>"
+        "name": "Moved chat and documets to Indexed DB from localstorage"
       },
       {
-        "name": "Moved chat and documets to Indexed DB from localstorage"
+        "name": "Top bar menu changed",
+        "html": "<img src='/new-menu.png' alt='Image 2'>"
       }
     ]
   }
