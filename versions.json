@@ -1,5 +1,4 @@
 [
-
   {
     "version": "1.0.3",
     "date": "2022-01-10",
@@ -10,6 +9,15 @@
       {
         "name": "Top bar menu changed",
         "html": "<img src='/new-menu.png' alt='Image 2'>"
+      }
+    ]
+  },
+  {
+    "version": "1.0.4",
+    "date": "2022-01-10",
+    "features": [
+      {
+        "name": "Moved chat and documets to Indexed DB from localstorage"
       }
     ]
   }
