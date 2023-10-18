@@ -4,15 +4,14 @@
     "date": "2022-01-01",
     "features": [
       {
-        "name": "New Feature 1",
-        "html": "<p>This is a html of the new feature.</p>"
+        "name": "🫧 New Feature 1"
       },
       {
         "name": "New Feature 2",
-        "html": "<p>This is a html of the new feature.</p> <img src='https://genexpert.io/screenshot.png'  alt='Image 1'>"
+        "html": "<img src='https://genexpert.io/screenshot.png'  alt='Image 1'>"
       },
       {
-        "name": "Bug Fix in Feature 3",
+        "name": "Bug Fix in Feature 3 🏝️",
         "html": "<p>This is a html of the bug fix.</p>"
       }
     ]
@@ -32,24 +31,6 @@
       {
         "name": "New Feature 5",
         "html": "<p>This is a html of the new feature.</p>"
-      }
-    ]
-  },
-  {
-    "version": "1.0.2",
-    "date": "2022-01-20",
-    "features": [
-      {
-        "name": "New Feature 6",
-        "html": "<p>This is a html of the new feature.</p>"
-      },
-      {
-        "name": "Performance Improvement in Feature 2",
-        "html": "<p>This is a html of the performance improvement. <img src='http://example.com/image3.jpg' alt='Image 3'></p>"
-      },
-      {
-        "name": "Bug Fix in Feature 5",
-        "html": "<p>This is a html of the bug fix.</p>"
       }
     ]
   }
