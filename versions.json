@@ -33,5 +33,18 @@
         "html": "<p>This is a html of the new feature.</p>"
       }
     ]
+  },
+  {
+    "version": "1.0.3",
+    "date": "2022-01-10",
+    "features": [
+      {
+        "name": "Top bar menu changed",
+        "html": "<img src='/new-menu.png' alt='Image 2'>"
+      },
+      {
+        "name": "Moved chat and documets to Indexed DB from localstorage"
+      }
+    ]
   }
 ]
