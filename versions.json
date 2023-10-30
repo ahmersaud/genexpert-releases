@@ -11,31 +11,6 @@
         "name": "Improved UI with minor bug fixes"
       }
     ]
-  },
-  {
-    "version": "1.5.0",
-    "date": "30th October, 2023",
-    "features": [
-      {
-        "name": "🎉 New Feature: Chat with Documents",
-        "html": "<img src='/chat-w-doc.png' alt='Chat with Documents'>"
-      },
-      {
-        "name": "Upload pdf 📤",
-        "html": "<img src='/pdf-chat.png' alt='Upload pdf'>"
-      },
-      {
-        "name": " Add in App Documents 📄",
-        "html": "<img src='/doc-chat.png' alt='Add in App Documents'>"
-      },
-      {
-        "name": "Add Text Context 📝",
-        "html": "<img src='/text-chat.png' alt='Add text context'>"
-      },
-      {
-        "name": "Ask whatever you want from the document 🔎",
-        "html": "<img src='/msgs.png' alt='chat with document text messages'>"
-      }
-    ]
   }
+
 ]
