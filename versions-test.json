@@ -1,22 +1,22 @@
 [
   {
-    "version": "1.0.3",
-    "date": "18th October, 2023",
+    "version": "1.5.0",
+    "date": "30th October, 2023",
     "features": [
       {
-        "name": "New Feature: Chat with Documents",
+        "name": "🎉 New Feature: Chat with Documents",
         "html": "<img src='/chat-w-doc.png' alt='Image 2'>"
       },
       {
-        "name": "Upload pdf",
+        "name": "Upload pdf 📤",
         "html": "<img src='/pdf-chat.png' alt='Image 2'>"
       },
       {
-        "name": "Add in App Documents",
+        "name": " Add in App Documents 📄",
         "html": "<img src='/doc-chat.png' alt='Image 2'>"
       },
       {
-        "name": "Add Text Context",
+        "name": "Add Text Context 📝",
         "html": "<img src='/text-chat.png' alt='Image 2'>"
       }
     ]
