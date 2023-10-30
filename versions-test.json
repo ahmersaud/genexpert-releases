@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.0.3",
+    "date": "18th October, 2023",
+    "features": [
+      {
+        "name": "Top bar menu changed",
+        "html": "<img src='/new-menu.png' alt='Image 2'>"
+      },
+      {
+        "name": "Improved UI with minor bug fixes"
+      }
+    ]
+  },
+  {
     "version": "1.5.0",
     "date": "30th October, 2023",
     "features": [
